@@ -9,7 +9,7 @@ A data analysis of a data set called skulls.
 5. [FAQs](#faqs)
 ### General Info
 ***
-Determining the significance of the epochs (c4000BC c3300BC, c1850BC, c200BC, or cAD150) of where the skulls originated from as well as the relationships between: basiregmatic height of the skull, basilveolar length of the skull, & nasal height of the skull versus the epoch it was founded in.
+Determining the significance of the epochs (c4000BC c3300BC, c1850BC, c200BC, or cAD150) of where the skulls originated from as well as the relationships between: basiregmatic height, basilveolar length, & nasal height of the skull versus the epoch it was founded in.
 ### Skulls
 ![Skulls](https://www.researchgate.net/profile/Michael-Friendly/publication/325126938/figure/fig4/AS:626177316253703@1526303714605/Diagram-of-the-skull-measurements-for-the-Egyptian-skulls-data-set-Maximal-breadth-and.png)
 ### Technologies
@@ -31,4 +31,4 @@ Collaboration can be made to perform regression analysis upon the data set.
 ### FAQs
 ***
 1. **Why is a data analysis of a data set called possum important to perform?**
-_Determining the significance of the epochs (c4000BC c3300BC, c1850BC, c200BC, or cAD150) of where the skulls originated from as well as the relationships between: basiregmatic height of the skull, basilveolar length of the skull, & nasal height of the skull versus the epoch it was founded in is unique to know the differences between the features of the skull as it relates to the epoch it was located in._
+_Determining the significance of the epochs (c4000BC c3300BC, c1850BC, c200BC, or cAD150) of where the skulls originated from as well as the relationships between: basiregmatic height, basilveolar length, & nasal height of the skull versus the epoch it was founded in is unique to know the differences between the features of the skull as it relates to the epoch it was located in._
