@@ -14,12 +14,9 @@ Determining the significance of the epochs (c4000BC c3300BC, c1850BC, c200BC, or
 ![Skulls](https://www.researchgate.net/profile/Michael-Friendly/publication/325126938/figure/fig4/AS:626177316253703@1526303714605/Diagram-of-the-skull-measurements-for-the-Egyptian-skulls-data-set-Maximal-breadth-and.png)
 ### Technologies
 ***
-* [Python](https://www.python.org/): Version 3.7 or higher
-* [Pycharm](https://www.jetbrains.com/pycharm/): Most recent version
 * [R](https://www.r-project.org/): Most recent version
 * [R Studio](https://www.rstudio.com/): Most recent version
 * [Microsoft Excel](https://www.microsoft.com/en-us/): Any version
-* [Microsoft PowerPoint](https://www.microsoft.com/en-us/): Any version
 * [Microsoft Word](https://www.microsoft.com/en-us/): Any version
 * [Adobe PDF](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html): Any version
 ### Installation
