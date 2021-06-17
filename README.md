@@ -31,4 +31,4 @@ Collaboration can be made to perform regression analysis upon the data set.
 ### FAQs
 ***
 1. **Why is data analysis of a data set called possum important to perform?**
-_ _
+_Determining the significance of the epochs (c4000BC c3300BC, c1850BC, c200BC, or cAD150) of where the skulls originated from as well as the relationships between: basiregmatic height of the skull, basilveolar length of the skull, & nasal height of the skull versus the epoch it was founded in is unique to know ._
