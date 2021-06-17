@@ -11,7 +11,7 @@ A data analysis of a data set called skulls.
 ***
 
 ### Skulls
-![Skulls](http://emilkirkegaard.dk/en/wp-content/uploads/skulls.png)
+![Skulls](https://www.researchgate.net/profile/Michael-Friendly/publication/325126938/figure/fig4/AS:626177316253703@1526303714605/Diagram-of-the-skull-measurements-for-the-Egyptian-skulls-data-set-Maximal-breadth-and.png)
 ### Technologies
 ***
 * [Python](https://www.python.org/): Version 3.7 or higher
