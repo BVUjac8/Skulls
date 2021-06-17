@@ -21,7 +21,7 @@ Determining the significance of the epochs (c4000BC c3300BC, c1850BC, c200BC, or
 * [Adobe PDF](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html): Any version
 ### Installation
 ***
-Python & Pycharm and R & R Studio should be downloaded from website, all others should be standardly included.
+R & R Studio should be downloaded from website, all others should be standardly included.
 ### Collaboration
 ***
 Collaboration can be made to perform regression analysis upon the data set.
